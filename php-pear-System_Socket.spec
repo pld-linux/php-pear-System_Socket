@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.php
-%define         _class          System
-%define         _subclass       Socket
+%define		_class		System
+%define		_subclass	Socket
 %define		_status		alpha
 %define		_pearname	%{_class}_%{_subclass}
 
