@@ -23,7 +23,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Aims to provide a thight and robust OO API to PHPs socket extension
 (ext/sockets).
 
-This class has in PEAR status: %{_status}.
+In PEAR status of this package is: %{_status}.
 
 %description -l pl
 W zamierzeniu ta klasa ma dostarczaczyæ rozbudowanego, zorientowanego
