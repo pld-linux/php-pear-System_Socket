@@ -26,7 +26,7 @@ Aims to provide a thight and robust OO API to PHPs socket extension
 In PEAR status of this package is: %{_status}.
 
 %description -l pl
-W zamierzeniu ta klasa ma dostarczaczyæ rozbudowanego, zorientowanego
+W zamierzeniu ta klasa ma dostarczyæ rozbudowanego, zorientowanego
 obiektowo API dla gniazd - jednego z rozszerzeñ PHP (ext/sockets).
 
 Ta klasa ma w PEAR status: %{_status}.
