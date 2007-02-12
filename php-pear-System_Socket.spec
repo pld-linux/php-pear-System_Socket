@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - OO socket API
-Summary(pl.UTF-8):   %{_pearname} - Zorientowane obiektowo API dla gniazd
+Summary(pl.UTF-8):	%{_pearname} - Zorientowane obiektowo API dla gniazd
 Name:		php-pear-%{_pearname}
 Version:	0.4.1
 Release:	6
