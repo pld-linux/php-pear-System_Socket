@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}
 
 Summary:	%{_pearname} - OO socket API
-Summary(pl):	%{_pearname} - Zorientowane obiektowo API dla gniazd
+Summary(pl.UTF-8):   %{_pearname} - Zorientowane obiektowo API dla gniazd
 Name:		php-pear-%{_pearname}
 Version:	0.4.1
 Release:	6
@@ -33,9 +33,9 @@ Aims to provide a thight and robust OO API to PHPs socket extension
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-W zamierzeniu ta klasa ma dostarczyæ rozbudowanego, zorientowanego
-obiektowo API dla gniazd - jednego z rozszerzeñ PHP (ext/sockets).
+%description -l pl.UTF-8
+W zamierzeniu ta klasa ma dostarczyÄ‡ rozbudowanego, zorientowanego
+obiektowo API dla gniazd - jednego z rozszerzeÅ„ PHP (ext/sockets).
 
 Ta klasa ma w PEAR status: %{_status}.
 
