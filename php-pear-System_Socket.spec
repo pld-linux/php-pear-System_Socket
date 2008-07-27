@@ -8,7 +8,7 @@ Summary:	%{_pearname} - OO socket API
 Summary(pl.UTF-8):	%{_pearname} - Zorientowane obiektowo API dla gniazd
 Name:		php-pear-%{_pearname}
 Version:	0.4.1
-Release:	6
+Release:	7
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
