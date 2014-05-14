@@ -1,5 +1,3 @@
-%define		_class		System
-%define		_subclass	Socket
 %define		_status		alpha
 %define		_pearname	System_Socket
 %include	/usr/lib/rpm/macros.php
@@ -7,7 +5,7 @@ Summary:	%{_pearname} - OO socket API
 Summary(pl.UTF-8):	%{_pearname} - Zorientowane obiektowo API dla gniazd
 Name:		php-pear-%{_pearname}
 Version:	0.4.1
-Release:	9
+Release:	10
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
@@ -16,8 +14,8 @@ URL:		http://pear.php.net/package/System_Socket/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 BuildRequires:	rpmbuild(macros) >= 1.300
+Requires:	php(core) >= 4.3.0
 Requires:	php(sockets)
-Requires:	php-common >= 3:4.3.0
 Requires:	php-pear
 Requires:	php-pear-PEAR-core
 Suggests:	php-pear-Log
