@@ -1,6 +1,5 @@
 %define		_status		alpha
 %define		_pearname	System_Socket
-%include	/usr/lib/rpm/macros.php
 Summary:	%{_pearname} - OO socket API
 Summary(pl.UTF-8):	%{_pearname} - Zorientowane obiektowo API dla gniazd
 Name:		php-pear-%{_pearname}
